@@ -1,0 +1,14 @@
+
+# N1-N2
+
+browser position chr19:7658907-7678907
+
+track type=bigWig name=“N1-N2-pwd” description=“N1-N2-pwd” bigDataUrl=https://raw.githubusercontent.com/caihongx/ucscdemo/master/df14pwd.bw
+
+track type=bigWig name=“N1-beta” description=“Normal1-beta” bigDataUrl=https://raw.githubusercontent.com/caihongx/ucscdemo/master/chr19_s1nbeta.bw
+
+track type=bigWig name=“N1-coverage” description=“Normal1-converage” bigDataUrl=https://raw.githubusercontent.com/caihongx/ucscdemo/master/chr19_s1ncoverage.bw
+
+track type=bigWig name=“N2-beta” description=“Normal2-beta” bigDataUrl=https://raw.githubusercontent.com/caihongx/ucscdemo/master/chr19_s2nbeta.bw
+
+track type=bigWig name=“N2-coverage” description=“Normal2-coverage” bigDataUrl=https://raw.githubusercontent.com/caihongx/ucscdemo/master/chr19_s2ncoverage.bw

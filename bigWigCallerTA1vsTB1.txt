@@ -1,0 +1,13 @@
+# TA1-TB1
+
+browser position chr19:7658907-7678907
+
+track type=bigWig name=“TA1-TB1-pwd” description=“TA1—TB1-pwd” bigDataUrl=https://raw.githubusercontent.com/caihongx/ucscdemo/master/df23pwd.bw
+
+track type=bigWig name=“TA1-beta” description=“TA1-beta” bigDataUrl=https://raw.githubusercontent.com/caihongx/ucscdemo/master/chr19_s2nbeta.bw
+
+track type=bigWig name=“TA1-coverage” description=“TA1-converage” bigDataUrl=https://raw.githubusercontent.com/caihongx/ucscdemo/master/chr19_s2ncoverage.bw
+
+track type=bigWig name=“TB1-beta” description=“TB1-beta” bigDataUrl=https://raw.githubusercontent.com/caihongx/ucscdemo/master/chr19_s3nbeta.bw
+
+track type=bigWig name=“TB1-coverage” description=“TB1-coverage” bigDataUrl=https://raw.githubusercontent.com/caihongx/ucscdemo/master/chr19_s3ncoverage.bw
