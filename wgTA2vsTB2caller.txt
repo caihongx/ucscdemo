@@ -1,6 +1,6 @@
 # TA2-TB2
 
-browser position wg:7658907-7678907
+browser position chr12:77324692-77325024
 
 track type=bigWig name=“TA2-TB2-pwd” description=“TA2—TB2-pwd” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wgdf56pwd.bw
 
