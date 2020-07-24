@@ -3,7 +3,7 @@
 
 browser position chr12:77324692-77325024
 
-track type=bigWig name=“N1-N2-pwd” description=“N1-N2-pwd” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/ucsccx2020/wgdf14pwd.bw
+track type=bigWig name=“N1-N2-pwd” description=“N1-N2-pwd” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wgdf14pwd.bw
 
 track type=bigWig name=“N1-beta” description=“Normal1-beta” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s1beta.bw
 
