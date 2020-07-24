@@ -1,5 +1,5 @@
 
-browser position wg:7658907-7678907
+browser position chr12:77324692-77325024
 
 track type=bigWig name=“TA1-TB1-pwd” description=“TA1—TB1-pwd” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wgdf23pwd.bw
 
