@@ -1,0 +1,10 @@
+
+browser position chr12:77324692-77325024
+
+track type=bigWig name=“TA1-TA2-pwd” description=“TA1-TA2-pwd” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wgdf25pwd.bw
+
+track type=bigWig name=“TA1-TB2-pwd” description=“TA1-TB2-pwd” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wgdf26pwd.bw
+
+track type=bigWig name=“TB1-TA2-pwd” description=“TB1-TA2-pwd” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wgdf35pwd.bw
+
+track type=bigWig name=“TB1-TB2-pwd” description=“TB1-TB2-pwd” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wgdf36pwd.bw
