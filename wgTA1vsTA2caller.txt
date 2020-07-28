@@ -1,0 +1,12 @@
+
+browser position chr12:77324692-77325024
+
+track type=bigWig name=“TA1-TA2-pwd” description=“TA1—TA2-pwd” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wgdf25pwd.bw
+
+track type=bigWig name=“TA1-beta” description=“TA1-beta” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s2beta.bw
+
+track type=bigWig name=“TA1-coverage” description=“TA1-converage” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s2coverage.bw
+
+track type=bigWig name=“TA2-beta” description=“TA2-beta” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s5beta.bw
+
+track type=bigWig name=“TA2-coverage” description=“TA2-coverage” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s5coverage.bw
