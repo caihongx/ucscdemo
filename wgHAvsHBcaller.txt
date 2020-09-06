@@ -1,0 +1,14 @@
+
+# HA-HB
+
+browser position wg:7658907-7678907
+
+track type=bigWig name=“HA-HB-pwd” description=“HA-HB-pwd” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/ucsccx2020/wgdf34npwd.bw
+
+track type=bigWig name=“HA-beta” description=“HA-beta” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s3abeta.bw
+
+track type=bigWig name=“HA-coverage” description=“HA-coverage” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s3acoverage.bw
+
+track type=bigWig name=“HB-beta” description=“HB-beta” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s4abeta.bw
+
+track type=bigWig name=“HB-coverage” description=“HB-coverage” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s4acoverage.bw

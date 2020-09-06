@@ -1,0 +1,14 @@
+
+# DA-DB
+
+browser position wg:7658907-7678907
+
+track type=bigWig name=“DA-DB-pwd” description=“DA-DB-pwd” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/ucsccx2020/wgdf12npwd.bw
+
+track type=bigWig name=“DA-beta” description=“DA-beta” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s1abeta.bw
+
+track type=bigWig name=“DA-coverage” description=“DA-coverage” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s1acoverage.bw
+
+track type=bigWig name=“DB-beta” description=“DB-beta” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s2abeta.bw
+
+track type=bigWig name=“DB-coverage” description=“DB-coverage” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s2acoverage.bw
