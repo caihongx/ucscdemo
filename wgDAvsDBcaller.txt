@@ -1,7 +1,7 @@
 
 # DA-DB
 
-browser position wg:7658907-7678907
+browser position chr12:7658907-7678907
 
 track type=bigWig name=“DA-DB-pwd” description=“DA-DB-pwd” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wgdf12npwd.bw
 
