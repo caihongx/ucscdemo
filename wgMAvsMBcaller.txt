@@ -3,7 +3,7 @@
 
 browser position wg:7658907-7678907
 
-track type=bigWig name=“MA-MB-pwd” description=“MA-MB-pwd” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/ucsccx2020/wgdf56npwd.bw
+track type=bigWig name=“MA-MB-pwd” description=“MA-MB-pwd” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wgdf56npwd.bw
 
 track type=bigWig name=“MA-beta” description=“MA-beta” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s5abeta.bw
 
