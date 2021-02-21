@@ -1,12 +1,12 @@
 
 browser position chr12:77324692-77325024
 
-track type=bigWig name=“TA1-TB1-pwd” description=“TA1—TB1-pwd” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wgdf23pwd.bw
+track type=bigWig name=“TA1-TB1-pwd” description=“TA1—TB1-pwd” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/ucsc2021/wgdf23cpwdm.bw
 
-track type=bigWig name=“TA1-beta” description=“TA1-beta” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s2beta.bw
+track type=bigWig name=“TA1-beta” description=“TA1-beta” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/ucsc2021/wg_s2cbeta.bw
 
-track type=bigWig name=“TA1-coverage” description=“TA1-converage” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s2coverage.bw
+track type=bigWig name=“TA1-coverage” description=“TA1-converage” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/ucsc2021/wg_s2ccoverage.bw
 
-track type=bigWig name=“TB1-beta” description=“TB1-beta” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s3beta.bw
+track type=bigWig name=“TB1-beta” description=“TB1-beta” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/ucsc2021/wg_s3cbeta.bw
 
-track type=bigWig name=“TB1-coverage” description=“TB1-coverage” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/wg_s3coverage.bw
+track type=bigWig name=“TB1-coverage” description=“TB1-coverage” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/ucsc2021/wg_s3ccoverage.bw
