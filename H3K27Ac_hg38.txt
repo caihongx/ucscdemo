@@ -1,0 +1,15 @@
+
+
+track type=bigWig name=“GM12878” description=“GM12878” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/H3K27Ac/encode_gm12878_hg38.bw
+
+track type=bigWig name=“H1-hESC” description=“H1-hESC” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/H3K27Ac/encode_h1hesc_hg38.bw
+
+track type=bigWig name=“HSMM” description=“HSMM” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/H3K27Ac/encode_hsmm_hg38.bw
+
+track type=bigWig name=“HUVEC” description=“HUVEC” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/H3K27Ac/encode_huvec_hg38.bw
+
+track type=bigWig name=“K562” description=“K562” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/H3K27Ac/encode_k562_hg38.bw
+
+track type=bigWig name=“NHEK” description=“NHEK” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/H3K27Ac/encode_nheck_hg38.bw
+
+track type=bigWig name=“NHLF” description=“NHLF” bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/ucsccx2020/H3K27Ac/encode_nhlf_hg38.bw
